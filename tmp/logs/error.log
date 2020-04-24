@@ -1,0 +1,99 @@
+2020-04-24 09:39:04 Error: [Error] Call to a member function success() on null
+Request URL: /groups/add
+Stack Trace:
+#0 [internal function]: GroupsController->add()
+#1 C:\wamp64\www\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(GroupsController), Array)
+#2 C:\wamp64\www\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\wamp64\www\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(GroupsController), Object(CakeRequest))
+#4 C:\wamp64\www\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-04-24 09:39:12 Error: [Error] Call to a member function success() on null
+Request URL: /groups/add
+Stack Trace:
+#0 [internal function]: GroupsController->add()
+#1 C:\wamp64\www\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(GroupsController), Array)
+#2 C:\wamp64\www\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\wamp64\www\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(GroupsController), Object(CakeRequest))
+#4 C:\wamp64\www\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-04-24 09:39:17 Error: [Error] Call to a member function success() on null
+Request URL: /groups/add
+Stack Trace:
+#0 [internal function]: GroupsController->add()
+#1 C:\wamp64\www\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(GroupsController), Array)
+#2 C:\wamp64\www\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\wamp64\www\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(GroupsController), Object(CakeRequest))
+#4 C:\wamp64\www\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-04-24 09:40:11 Error: [Error] Call to a member function success() on null
+Request URL: /users/add
+Stack Trace:
+#0 [internal function]: UsersController->add()
+#1 C:\wamp64\www\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 C:\wamp64\www\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\wamp64\www\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 C:\wamp64\www\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-04-24 09:40:20 Error: [Error] Call to a member function success() on null
+Request URL: /users/add
+Stack Trace:
+#0 [internal function]: UsersController->add()
+#1 C:\wamp64\www\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 C:\wamp64\www\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\wamp64\www\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 C:\wamp64\www\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-04-24 09:40:28 Error: [Error] Call to a member function success() on null
+Request URL: /users/add
+Stack Trace:
+#0 [internal function]: UsersController->add()
+#1 C:\wamp64\www\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 C:\wamp64\www\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\wamp64\www\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 C:\wamp64\www\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-04-24 09:50:55 Error: [MissingControllerException] Controller class HNAP1Controller could not be found.
+Exception Attributes: array (
+  'class' => 'HNAP1Controller',
+  'plugin' => NULL,
+)
+Request URL: /HNAP1/
+Stack Trace:
+#0 C:\wamp64\www\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2020-04-24 09:53:50 Error: [Error] Call to a member function success() on null
+Request URL: /users/add
+Stack Trace:
+#0 [internal function]: UsersController->add()
+#1 C:\wamp64\www\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 C:\wamp64\www\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\wamp64\www\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 C:\wamp64\www\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-04-24 09:56:14 Error: [Error] Call to a member function success() on null
+Request URL: /users/add
+Stack Trace:
+#0 [internal function]: UsersController->add()
+#1 C:\wamp64\www\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 C:\wamp64\www\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\wamp64\www\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 C:\wamp64\www\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-04-24 09:57:27 Error: [Error] Call to a member function success() on null
+Request URL: /users/add
+Stack Trace:
+#0 [internal function]: UsersController->add()
+#1 C:\wamp64\www\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 C:\wamp64\www\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\wamp64\www\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 C:\wamp64\www\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2020-04-24 10:12:54 Error: [Error] Call to a member function success() on null
+Request URL: /posts/add
+Stack Trace:
+#0 [internal function]: PostsController->add()
+#1 C:\wamp64\www\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#2 C:\wamp64\www\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\wamp64\www\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 C:\wamp64\www\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
